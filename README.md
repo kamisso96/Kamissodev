@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diakite Dramane Kamisso</h1>
-<h3 align="center">A passionate frontend developer from Ivory coast</h3>
+<h3 align="center">A passionate junior frontend developer from Ivory coast</h3>
 
 - 🔭 I’m currently working on **development of my admission process website**
 
